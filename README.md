@@ -1,6 +1,6 @@
 # Views Photo Grid
 
-Drupal port of Views Photo Grid module
+Backdrop port of Views Photo Grid module for Drupal
 
 ## About this module
 
