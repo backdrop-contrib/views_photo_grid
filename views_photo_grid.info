@@ -1,6 +1,8 @@
+type = module
 name = Views Photo Grid
 description = Adds a photo grid style plugin to Views.
-dependencies[] = views
 package = Views
-core = 7.x
-files[] = views/views_photo_grid_plugin_style.inc
+backdrop = 1.x
+stylesheets[all][] = css/views-photo-grid.css
+scripts[] = js/views-photo-grid.js
+dependencies[] = views

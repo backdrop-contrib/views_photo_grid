@@ -1,10 +1,10 @@
 <?php
+
 /**
  * @file
  * Style plugin for Views Photo Grid.
  */
-
-class views_photo_grid_plugin_style extends views_plugin_style {
+Class Views_Photo_Grid_Plugin_Style Extends Views_Plugin_Style {
 
   /**
    * Sets option defaults.

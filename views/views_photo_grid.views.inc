@@ -1,10 +1,15 @@
 <?php
 
 /**
+ * @file
+ * Views integration file for Views Photo Grid module.
+ */
+
+/**
  * Implements hook_views_plugins().
  */
 function views_photo_grid_views_plugins() {
-  $module_path = drupal_get_path('module', 'views_photo_grid');
+  $module_path = backdrop_get_path('module', 'views_photo_grid');
 
   return array(
     'module' => 'views_photo_grid',
@@ -24,4 +29,3 @@ function views_photo_grid_views_plugins() {
     ),
   );
 }
-
