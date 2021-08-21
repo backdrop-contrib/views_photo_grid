@@ -1,4 +1,4 @@
-# views_photo_grid
+# Views Photo Grid
 
 Drupal port of Views Photo Grid module
 
