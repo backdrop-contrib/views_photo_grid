@@ -36,7 +36,7 @@ http://glekli.github.io/jQuery-Sortable-Photos/
 ## Credits
 
 * Ported to Backdrop by [djzwerg](https://github.com/djzwerg)
-* Originally developed for Drupal by @glekli
+* Originally developed for Drupal by [glekli](https://github.com/glekli)
 
 ## License
 
