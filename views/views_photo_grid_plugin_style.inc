@@ -4,7 +4,7 @@
  * @file
  * Style plugin for Views Photo Grid.
  */
-Class Views_Photo_Grid_Plugin_Style Extends Views_Plugin_Style {
+class views_photo_grid_plugin_style extends views_plugin_style {
 
   /**
    * Sets option defaults.
